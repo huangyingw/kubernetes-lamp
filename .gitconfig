@@ -23,5 +23,5 @@
 	silent = false
 	async = false
 [deploy]
-	host = localhost
+	host = master-node
 	path = ~/myproject/git/Kubernetes/jjmengze/kubernetes-lamp
